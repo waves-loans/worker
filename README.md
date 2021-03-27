@@ -1,0 +1,1 @@
+[![Build Status](https://drone.waves.loans/api/badges/waves-loans/worker/status.svg)](https://drone.waves.loans/waves-loans/worker)
